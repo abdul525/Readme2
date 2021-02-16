@@ -17,4 +17,16 @@ These design patterns are specifically concerned with communication between obje
 4. FactoryDesign Pattern
 5. Composite Design Pattern
 
+Project directory: 
+Tasks---Abdul Sami Umrani\Task no2 Design Patterns
+
+Singleton Pattern project directory:
+Tasks---Abdul Sami Umrani\Task no2 Design Patterns\SingletonPattern
+
+Adapter Pattern project directory:
+Tasks---Abdul Sami Umrani\Task no2 Design Patterns\AdapterPattern
+
+Prototype Pattern project directory:
+Tasks---Abdul Sami Umrani\Task no2 Design Patterns\PrototypePattern
+
 ###### Note: I have worked on only three Design Patterns,because I had some problems during this task and the detail of the code is in the code file with comments.
